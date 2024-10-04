@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Saku Koponen!
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  Hi there, I'm Saku Koponen!
+</h2>
 
-I'm a learning Full Stack Developer with extreme interest in Cybersecurity
+<p align="center">I'm a learning <b>Full Stack Developer</b> with a passion for building secure web applications and a deep interest in <b>Cybersecurity</b>.</p>
 
 ### 🛠️ My Tech Stack
 
