@@ -33,8 +33,8 @@
 
 
 ### 🚀 About Me:
-  🔭 I’m currently working on TryHackMe.com courses & school.
-  Also working on:
+- 🔭 I’m currently working on TryHackMe.com courses & school.
+- Also working on:
     - TrueFriend App
     - a Network Scanner
     - a Bruteforce tool
